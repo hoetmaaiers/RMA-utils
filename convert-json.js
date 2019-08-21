@@ -1,3 +1,7 @@
+// Example usage
+// ❯ node ./convert-json.js ~/Downloads/nl.json ~/Downloads/nl.properties
+//
+
 const inputFile = process.argv[2];
 const outputFile = process.argv[3];
 
