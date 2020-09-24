@@ -1,0 +1,11 @@
+{
+  "name": "RMA-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hoetmaaiers/RMA-utils.git",
+  "author": "hoetmaaiers <robin.houdmeyers@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json5": "^2.1.3"
+  }
+}
