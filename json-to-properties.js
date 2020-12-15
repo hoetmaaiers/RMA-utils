@@ -1,5 +1,5 @@
 // Example usage
-// ❯ node ./convert-json.js ~/Downloads/nl.json ~/Downloads/nl.properties
+// ❯ node ./json-to-properties.js ~/Downloads/nl.json ~/Downloads/nl.properties
 //
 
 const inputFile = process.argv[2];
